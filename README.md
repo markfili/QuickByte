@@ -1,16 +1,18 @@
-QuickByte
+QuickByte v1.0
 =========
 
-KodBiro test app
+### KodBiro test app
+---------
 
-Built using Android Studio
-Tested using Genymotion virtual device emulator
+* Built using Android Studio
+* Tested using Genymotion virtual device emulator
+* Simple 2-activity food ordering application
+* Displays data using ListViews<br>
+* Communicates using HTTP POST and GET (AndroidHttpClient and AsyncHttpClient)<br>
+* Parses JSON using Gson
 
-Simple 2-activity food ordering application
-Displays data using ListViews
-Communicates using HTTP POST and GET (AndroidHttpClient and AsyncHttpClient)
-Parses JSON using Gson
 
-Usage:
-  Add to Eclipse or Android Studio
-  Run on virtual device with API level 19
+
+#####Usage:
+1. Add to Eclipse or Android Studio
+2. Run on virtual device with API level 19
