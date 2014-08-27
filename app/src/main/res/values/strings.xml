@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickByte</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_get_menu">http://demo6389157.mockable.io/menu</string>
+    <string name="connected_to_internet">Connected to the interweb.</string>
+    <string name="not_connected">Not connected, check network status.</string>
+    <string name="button_trolley">Trolley</string>
+    <string name="dialog_clear_trolley">Clear orders?</string>
+    <string-array name="json_parameters">
+        <item>id</item>
+        <item>name</item>
+        <item>image</item>
+    </string-array>
+    <string name="clear_trolley">Clear orders?</string>
+    <string name="dialog_order_quantity">How many would you like to order?</string>
+    <string name="button_order_list">Orders</string>
+    <string name="confim_order">Confirm</string>
+    <string name="clear_order_list">Clear</string>
+    <string name="dialog_order_status_success_textview">Successful order! Wait time: </string>
+    <string name="dialog_order_status_failure_textview">Something went wrong, try again.</string>
+    <string name="dialog_positive_button">OK</string>
+    <string name="seekbar_max">5</string>
+    <string name="text_quantity_order_list">St: </string>
+    <string name="text_listview_header_trolley" >Are you done with your order?</string>
+    <string name="text_listview_header_menu">Choose from our menu</string>
+</resources>

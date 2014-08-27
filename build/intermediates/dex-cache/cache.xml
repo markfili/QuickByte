@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\marko\AndroidStudioProjects\QuickByte\app\build\intermediates\pre-dexed\debug\gson-2.3-b4f3fe87a522a838fa3f6066d3adb5e4cf284922.jar"
+        jar="C:\Users\marko\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="C:\Users\marko\AndroidStudioProjects\QuickByte\app\build\intermediates\pre-dexed\debug\picasso-2.3.3-c2430a20861c444ce98146751ca5290c8a40224a.jar"
+        jar="C:\Users\marko\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.3\1262995965440e28ba5c4d480c9c9ab4ccce84cc\picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc"/>
+    <item
+        dex="C:\Users\marko\AndroidStudioProjects\QuickByte\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-22c31e6427a13300bbde031605e6cceb4156f01a.jar"
+        jar="C:\Users\marko\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881"/>
+
+</pre-dex-items>

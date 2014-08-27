@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright © 2014 Marko Filipović sifilis@kset.org
+  ~ This work is free. You can redistribute it and/or modify it under the
+  ~ terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:id="@+id/dialogOrderLayout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialogOrderStatusTextView"
+        android:text="@string/dialog_order_status_success_textview"
+        android:textIsSelectable="true"
+        android:textAlignment="gravity"
+        android:gravity="center_horizontal" />
+</LinearLayout>

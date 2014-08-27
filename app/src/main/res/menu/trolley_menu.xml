@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright © 2014 Marko Filipović sifilis@kset.org
+  ~ This work is free. You can redistribute it and/or modify it under the
+  ~ terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+    android:id="@+id/trolley_menu"
+    android:title="@string/button_order_list"
+    android:orderInCategory="100"
+    android:showAsAction="ifRoom">
+    <menu>
+        <item
+            android:id="@+id/confirm_order"
+            android:title="@string/confim_order" />
+        <item
+            android:id="@+id/clear_trolley"
+            android:title="@string/clear_order_list" />
+    </menu>
+
+</item>
+
+
+
+</menu>

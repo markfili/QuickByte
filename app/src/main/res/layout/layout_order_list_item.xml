@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright © 2014 Marko Filipović sifilis@kset.org
+  ~ This work is free. You can redistribute it and/or modify it under the
+  ~ terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/orderIDTextView"
+        android:visibility="gone" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/orderNameTextView"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="2"
+        android:textSize="@dimen/fontMainSize" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_quantity_order_list"
+        android:id="@+id/quantityLabelText"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0.1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="100"
+        android:id="@+id/orderQuantityTextView"
+        android:layout_gravity="center_vertical"
+        android:textStyle="bold"
+        android:textSize="@dimen/fontSideSize"
+        android:singleLine="false" />
+
+</LinearLayout>
