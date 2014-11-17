@@ -1,7 +1,7 @@
 QuickByte v1.0
 =========
 
-### KodBiro test app
+### Android test app
 ---------
 
 * Built using Android Studio
