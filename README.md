@@ -1,6 +1,8 @@
 QuickByte v1.0
 =========
 
+Use for code review only, links the app uses are dead.
+
 ### Android test app
 ---------
 
